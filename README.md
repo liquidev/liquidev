@@ -1,10 +1,10 @@
 ## yo
 
 - games, audio, programming languages, and graphics are my jam
-- [Nimion](https://nim-lang.org/), but i also know Lua, C, and C++
-- Linux enthusiast and ricer
-- speaks English and Polish
-- cares for your RAM and CPU usage <3
+- i'm a [Nimion](https://nim-lang.org/), but i also know Lua, C, and C++
+- i'm a Linux enthusiast and ricer
+- i speak English and Polish
+- i care for your RAM and CPU usage <3
 
 ### portfolio
 
