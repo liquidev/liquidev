@@ -32,7 +32,7 @@ things i'd like to work on someday:
 | name | brief |
 | :-: | --- |
 | [Nadio](https://github.com/liquid600pgm/nadio) | DAW focused on modularity and keyboard use |
-| ??? | something cool in a small team of people |
+| ??? | something cool with a small team |
 
 ### other stuff
 
