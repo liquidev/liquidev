@@ -33,3 +33,8 @@ things i'd like to work on someday:
 | :-: | --- |
 | [Nadio](https://github.com/liquid600pgm/nadio) | DAW focused on modularity and keyboard use |
 | ??? | something cool in a small team of people |
+
+### other stuff
+
+- [itch.io](https://lqdev.itch.io/), where you can find my games
+- [soundcloud](https://soundcloud.com/daknus), where you can find bleep bloops i make from time to time
