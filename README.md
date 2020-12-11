@@ -21,7 +21,7 @@ ordered by "importance"
 | [hayago](https://github.com/liquid600pgm/hayago) | Nim | statically-typed scripting language |
 | [\_MEM.RECALL();](https://github.com/liquid600pgm/memrecall) | Nim | platformer for [Open Jam 2019](https://itch.io/jam/open-jam-2019), scored 2nd place |
 | [euwren](https://github.com/liquid600pgm/euwren) | Nim | clusterfuck of macros that somehow makes up a high-level wrapper for a scripting language |
-| [Spamality!](https://github.com/liquid600pgm/spamality) | Nim | arcade shooter for [Open Jam 2018](https://itch.io/jam/open-jam-2018) |
+| [Spamality!](https://github.com/liquid600pgm/spamality) | Lua | arcade shooter for [Open Jam 2018](https://itch.io/jam/open-jam-2018) |
 | [lint+](https://github.com/liquid600pgm/lintplus) | Lua | improved linting plugin for [lite](https://github.com/rxi/lite) |
 | [powerbf](https://github.com/liquid600pgm/powerbf) | C | optimized bytecode brainfuck interpreter |
 | [delight](https://github.com/liquid600pgm/delight) | Nim | engine-agnostic raycasting |
