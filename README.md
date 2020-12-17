@@ -17,8 +17,7 @@ ordered by "importance"
 | [rapid](https://github.com/liquid600pgm/rapid) | Nim | my own game engine designed for myself |
 | [aglet](https://github.com/liquid600pgm/aglet) | Nim | high-level OpenGL wrapper focused on safety, sensible defaults, and ease of use |
 | [Planet Overgamma](https://github.com/liquid600pgm/planet-overgamma) | Nim | soon to be game about exploring and industrializing an unknown planet |
-| tsuki | Nim | (unpublished) dynamically-typed scripting language. coming soon™ |
-| [hayago](https://github.com/liquid600pgm/hayago) | Nim | statically-typed scripting language |
+| [tsuki](https://github.com/liquid600pgm/tsuki) | Nim | dynamically-typed, embeddable scripting language |
 | [\_MEM.RECALL();](https://github.com/liquid600pgm/memrecall) | Nim | platformer for [Open Jam 2019](https://itch.io/jam/open-jam-2019), scored 2nd place |
 | [euwren](https://github.com/liquid600pgm/euwren) | Nim | clusterfuck of macros that somehow makes up a high-level wrapper for a scripting language |
 | [Spamality!](https://github.com/liquid600pgm/spamality) | Lua | arcade shooter for [Open Jam 2018](https://itch.io/jam/open-jam-2018) |
