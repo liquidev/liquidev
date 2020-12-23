@@ -2,7 +2,7 @@
 
 - games, audio, programming languages, and graphics are my jam
 - i'm a [Nimion](https://nim-lang.org/), but i also know Lua, C, and C++
-- i'm a Linux enthusiast and ricer
+- i'm a Linux enthusiast and [ricer](https://github.com/liquid600pgm/rice-archive)
 - i speak English and Polish
 - i care for your RAM and CPU usage <3
 
