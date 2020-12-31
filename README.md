@@ -2,7 +2,7 @@
 
 - games, audio, programming languages, and graphics are my jam
 - i'm a [Nimion](https://nim-lang.org/), but i also know Lua, C, and C++
-- i'm a Linux enthusiast and [ricer](https://github.com/liquid600pgm/rice-archive)
+- i'm a Linux enthusiast and [ricer](https://github.com/liquidev/rice-archive)
 - i speak English and Polish
 - i care for your RAM and CPU usage <3
 
@@ -14,25 +14,25 @@ ordered by "importance"
 
 | name | lang | brief |
 | :-: | :-: | --- |
-| [rapid](https://github.com/liquid600pgm/rapid) | Nim | my own game engine designed for myself |
-| [aglet](https://github.com/liquid600pgm/aglet) | Nim | high-level OpenGL wrapper focused on safety, sensible defaults, and ease of use |
-| [Planet Overgamma](https://github.com/liquid600pgm/planet-overgamma) | Nim | soon to be game about exploring and industrializing an unknown planet |
-| [tsuki](https://github.com/liquid600pgm/tsuki) | Nim | dynamically-typed, embeddable scripting language |
-| [\_MEM.RECALL();](https://github.com/liquid600pgm/memrecall) | Nim | platformer for [Open Jam 2019](https://itch.io/jam/open-jam-2019), scored 2nd place |
-| [euwren](https://github.com/liquid600pgm/euwren) | Nim | clusterfuck of macros that somehow makes up a high-level wrapper for a scripting language |
-| [Spamality!](https://github.com/liquid600pgm/spamality) | Lua | arcade shooter for [Open Jam 2018](https://itch.io/jam/open-jam-2018) |
-| [lint+](https://github.com/liquid600pgm/lintplus) | Lua | improved linting plugin for [lite](https://github.com/rxi/lite) |
-| [powerbf](https://github.com/liquid600pgm/powerbf) | C | optimized bytecode brainfuck interpreter |
-| [delight](https://github.com/liquid600pgm/delight) | Nim | engine-agnostic raycasting |
-| [pan](https://github.com/liquid600pgm/pan) | Nim/Lua | motion graphics using Lua |
+| [rapid](https://github.com/liquidev/rapid) | Nim | my own game engine designed for myself |
+| [aglet](https://github.com/liquidev/aglet) | Nim | high-level OpenGL wrapper focused on safety, sensible defaults, and ease of use |
+| [Planet Overgamma](https://github.com/liquidev/planet-overgamma) | Nim | soon to be game about exploring and industrializing an unknown planet |
+| [tsuki](https://github.com/liquidev/tsuki) | Nim | dynamically-typed, embeddable scripting language |
+| [\_MEM.RECALL();](https://github.com/liquidev/memrecall) | Nim | platformer for [Open Jam 2019](https://itch.io/jam/open-jam-2019), scored 2nd place |
+| [euwren](https://github.com/liquidev/euwren) | Nim | clusterfuck of macros that somehow makes up a high-level wrapper for a scripting language |
+| [Spamality!](https://github.com/liquidev/spamality) | Lua | arcade shooter for [Open Jam 2018](https://itch.io/jam/open-jam-2018) |
+| [lint+](https://github.com/liquidev/lintplus) | Lua | improved linting plugin for [lite](https://github.com/rxi/lite) |
+| [powerbf](https://github.com/liquidev/powerbf) | C | optimized bytecode brainfuck interpreter |
+| [delight](https://github.com/liquidev/delight) | Nim | engine-agnostic raycasting |
+| [pan](https://github.com/liquidev/pan) | Nim/Lua | motion graphics using Lua |
 
-and also various other fun, wacky, and honestly garbage projects you can browse in my [repositories tab](https://github.com/liquid600pgm?tab=repositories)
+and also various other fun, wacky, and honestly garbage projects you can browse in my [repositories tab](https://github.com/liquidev?tab=repositories)
 
 things i'd like to work on someday:
 
 | name | brief |
 | :-: | --- |
-| [Nadio](https://github.com/liquid600pgm/nadio) | DAW focused on modularity and keyboard use |
+| [Nadio](https://github.com/liquidev/nadio) | DAW focused on modularity and keyboard use |
 | ??? | something cool with a small team |
 
 ### other stuff
