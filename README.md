@@ -20,8 +20,9 @@ ordered by "importance"
 | [tsuki](https://github.com/liquidev/tsuki) | Nim | dynamically-typed, embeddable scripting language |
 | [\_MEM.RECALL();](https://github.com/liquidev/memrecall) | Nim | platformer for [Open Jam 2019](https://itch.io/jam/open-jam-2019), scored 2nd place |
 | [euwren](https://github.com/liquidev/euwren) | Nim | clusterfuck of macros that somehow makes up a high-level wrapper for a scripting language |
-| [Spamality!](https://github.com/liquidev/spamality) | Lua | arcade shooter for [Open Jam 2018](https://itch.io/jam/open-jam-2018) |
+| [cflang](https://github.com/liquidev/cflang) | Nim | minimal functional programming language, an experiment in implementing closures |
 | [lint+](https://github.com/liquidev/lintplus) | Lua | improved linting plugin for [lite](https://github.com/rxi/lite) |
+| [Spamality!](https://github.com/liquidev/spamality) | Lua | arcade shooter for [Open Jam 2018](https://itch.io/jam/open-jam-2018) |
 | [powerbf](https://github.com/liquidev/powerbf) | C | optimized bytecode brainfuck interpreter |
 | [delight](https://github.com/liquidev/delight) | Nim | engine-agnostic raycasting |
 | [pan](https://github.com/liquidev/pan) | Nim/Lua | motion graphics using Lua |
