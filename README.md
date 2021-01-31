@@ -23,8 +23,6 @@ ordered by "importance"
 | [cflang](https://github.com/liquidev/cflang) | Nim | minimal functional programming language, an experiment in implementing closures |
 | [lint+](https://github.com/liquidev/lintplus) | Lua | improved linting plugin for [lite](https://github.com/rxi/lite) |
 | [Spamality!](https://github.com/liquidev/spamality) | Lua | arcade shooter for [Open Jam 2018](https://itch.io/jam/open-jam-2018) |
-| [powerbf](https://github.com/liquidev/powerbf) | C | optimized bytecode brainfuck interpreter |
-| [delight](https://github.com/liquidev/delight) | Nim | engine-agnostic raycasting |
 | [pan](https://github.com/liquidev/pan) | Nim/Lua | motion graphics using Lua |
 
 and also various other fun, wacky, and honestly garbage projects you can browse in my [repositories tab](https://github.com/liquidev?tab=repositories)
