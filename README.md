@@ -1,7 +1,7 @@
 ## yo
 
 - games, audio, programming languages, and graphics are my jam
-- i'm a [Nimion](https://nim-lang.org/), but i also know Lua, C, and C++
+- i code in Nim, Lua, C, Rust, and C++, in that order of experience with the language
 - i'm a Linux enthusiast and [ricer](https://github.com/liquidev/rice-archive)
 - i speak English and Polish
 - i care for your RAM and CPU usage <3
@@ -26,13 +26,6 @@ ordered by "importance"
 | [pan](https://github.com/liquidev/pan) | Nim/Lua | motion graphics using Lua |
 
 and also various other fun, wacky, and honestly garbage projects you can browse in my [repositories tab](https://github.com/liquidev?tab=repositories)
-
-things i'd like to work on someday:
-
-| name | brief |
-| :-: | --- |
-| [Nadio](https://github.com/liquidev/nadio) | DAW focused on modularity and keyboard use |
-| ??? | something cool with a small team |
 
 ### other stuff
 
