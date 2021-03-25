@@ -16,7 +16,6 @@ ordered by "importance"
 | [rapid](https://github.com/liquidev/rapid) | Nim | my own game engine designed for myself |
 | [aglet](https://github.com/liquidev/aglet) | Nim | high-level OpenGL wrapper focused on safety, sensible defaults, and ease of use |
 | [tsuki](https://github.com/liquidev/tsuki) | Nim | dynamically-typed, embeddable scripting language |
-| [Planet Overgamma](https://github.com/liquidev/planet-overgamma) | Nim | soon to be game about exploring and industrializing an unknown planet |
 | [\_MEM.RECALL();](https://github.com/liquidev/memrecall) | Nim | platformer for [Open Jam 2019](https://itch.io/jam/open-jam-2019), scored 2nd place |
 | [cflang](https://github.com/liquidev/cflang) | Nim | minimal functional programming language, an experiment in implementing closures |
 | [lint+](https://github.com/liquidev/lintplus) | Lua | improved linting plugin for [lite](https://github.com/rxi/lite) |
@@ -35,3 +34,6 @@ and also various other fun, wacky, and honestly garbage projects you can browse 
 
 - [itch.io](https://lqdev.itch.io/), where you can find my games
 - [soundcloud](https://soundcloud.com/daknus), where you can find bleep bloops i make from time to time
+
+<!-- oh hello there lurker! glad to see you.
+     i didn't put any easter eggs here yet, check back later. -->
