@@ -19,13 +19,18 @@ ordered by "importance"
 | [tsuki](https://github.com/liquidev/tsuki) | Nim | dynamically-typed, embeddable scripting language |
 | [Planet Overgamma](https://github.com/liquidev/planet-overgamma) | Nim | soon to be game about exploring and industrializing an unknown planet |
 | [\_MEM.RECALL();](https://github.com/liquidev/memrecall) | Nim | platformer for [Open Jam 2019](https://itch.io/jam/open-jam-2019), scored 2nd place |
-| [euwren](https://github.com/liquidev/euwren) | Nim | clusterfuck of macros that somehow makes up a high-level wrapper for a scripting language |
 | [cflang](https://github.com/liquidev/cflang) | Nim | minimal functional programming language, an experiment in implementing closures |
 | [lint+](https://github.com/liquidev/lintplus) | Lua | improved linting plugin for [lite](https://github.com/rxi/lite) |
 | [Spamality!](https://github.com/liquidev/spamality) | Lua | arcade shooter for [Open Jam 2018](https://itch.io/jam/open-jam-2018) |
 | [pan](https://github.com/liquidev/pan) | Nim/Lua | motion graphics using Lua |
 
 and also various other fun, wacky, and honestly garbage projects you can browse in my [repositories tab](https://github.com/liquidev?tab=repositories)
+
+#### things i contribute(d) to
+
+| name | lang | brief |
+| :-: | :-: | --- |
+| [Lite XL](https://github.com/franko/lite-xl) | Lua | testing, UI design, and quality assurance, also helped implement a few features and fix bugs |
 
 ### other stuff
 
