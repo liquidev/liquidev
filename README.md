@@ -4,7 +4,7 @@
 - i code in Nim, Lua, C, Rust, and C++, in that order of experience with the language
 - i'm a Linux enthusiast and [ricer](https://github.com/liquidev/rice-archive)
 - i speak English and Polish
-- i care for your RAM and CPU usage <3
+- i care for your RAM and CPU usage, but not to the point where i sacrifice the readability of my code
 
 ### portfolio
 
