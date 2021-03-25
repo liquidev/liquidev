@@ -8,8 +8,7 @@
 
 ### portfolio
 
-most of this stuff is unfinished but works in some way shape or form.
-
+most of this stuff is somewhat complete.  
 ordered by "importance"
 
 | name | lang | brief |
