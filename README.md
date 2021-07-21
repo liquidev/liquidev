@@ -1,7 +1,7 @@
 ## yo
 
 - games, audio, programming languages, and graphics are my jam
-- i code in Rust, Lua, C, and Nim
+- i code in Lua, Rust, Nim, Zig, and a few other languages
 - i'm a Linux enthusiast and [ricer](https://github.com/liquidev/rice-archive)
 - i speak English and Polish
 - i care for your RAM and CPU usage, but not to the point where i sacrifice the readability of my code
