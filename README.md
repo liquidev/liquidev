@@ -14,15 +14,20 @@ ordered by "importance"
 | name | lang | brief |
 | :-: | :-: | --- |
 | [NetCanv](https://github.com/liquidev/netcanv) | Rust | online collaborative paint canvas |
+| [pan](https://github.com/liquidev/pan) | Nim/Lua | a tool for creating procedural motion graphics using Lua |
 | [rapid](https://github.com/liquidev/rapid) | Nim | my own game engine designed for myself |
 | [aglet](https://github.com/liquidev/aglet) | Nim | high-level OpenGL wrapper focused on safety, sensible defaults, and ease of use |
-| [tsuki](https://github.com/liquidev/tsuki) | Nim | dynamically-typed, embeddable scripting language |
 | [\_MEM.RECALL();](https://github.com/liquidev/memrecall) | Nim | platformer for [Open Jam 2019](https://itch.io/jam/open-jam-2019), scored 2nd place |
 | [cflang](https://github.com/liquidev/cflang) | Nim | minimal functional programming language, an experiment in implementing closures |
 | [lint+](https://github.com/liquidev/lintplus) | Lua | improved linting plugin for [lite](https://github.com/rxi/lite) |
 | [Spamality!](https://github.com/liquidev/spamality) | Lua | arcade shooter for [Open Jam 2018](https://itch.io/jam/open-jam-2018) |
 | [datarray](https://github.com/liquidev/datarray) | Nim | struct of arrays that can be accessed and modified like an array of structs |
-| [pan](https://github.com/liquidev/pan) | Nim/Lua | motion graphics using Lua |
+
+WIP:
+
+| name | lang | brief |
+| :-: | :-: | --- |
+| [tsuki](https://github.com/liquidev/tsuki) | Nim | programmer-oriented programming language |
 
 and also various other fun, wacky, and honestly garbage projects you can browse in my [repositories tab](https://github.com/liquidev?tab=repositories)
 
