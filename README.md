@@ -27,7 +27,7 @@ WIP:
 
 | name | lang | brief |
 | :-: | :-: | --- |
-| [tsuki](https://github.com/liquidev/tsuki) | Nim | programmer-oriented programming language |
+| [tsuki](https://github.com/liquidev/tsuki) | Rust | programmer-oriented programming language |
 
 and also various other fun, wacky, and honestly garbage projects you can browse in my [repositories tab](https://github.com/liquidev?tab=repositories)
 
