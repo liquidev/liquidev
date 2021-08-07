@@ -4,7 +4,7 @@
 - i code in Lua, Rust, Nim, Zig, and a few other languages
 - i'm a Linux enthusiast and [ricer](https://github.com/liquidev/rice-archive)
 - i speak English and Polish
-- i care for your RAM and CPU usage, but not to the point where i sacrifice the readability of my code
+- i care for your RAM and CPU usage
 
 ### portfolio
 
