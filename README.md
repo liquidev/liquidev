@@ -24,10 +24,10 @@ Ordered by relative recency.
 | [Lite XL](https://github.com/franko/lite-xl) | Lua | contributions: testing, quality assurance, plugins, bugfixing, and features |
 | [pan](https://github.com/liquidev/pan) | Nim/Lua | a tool for creating procedural motion graphics using Lua |
 | [pomod](https://github.com/liquidev/pomod) | Nim | pomodoro timer for polybar |
-| [\_MEM.RECALL();](https://github.com/liquidev/memrecall) | Nim | platformer for [Open Jam 2019](https://itch.io/jam/open-jam-2019), scored 2nd place |
+| [\_MEM.RECALL();](https://github.com/liquidev/memrecall) | Nim | [Open Jam 2019](https://itch.io/jam/open-jam-2019) 2nd place – a platformer where you save the future (™) |
 | [pibench2](https://github.com/liquidev/pibench2) | Nim | multi-threaded performance benchmark that approximates π using the Leibnitz series |
 | [Planet Overgamma](https://github.com/liquidev/planet-overgamma) | Lua | a game about crashing on an unknown planet and using automation to survive and thrive |
-| [Spamality!](https://github.com/liquidev/spamality) | Lua | arcade shooter for [Open Jam 2018](https://itch.io/jam/open-jam-2018) |
+| [Spamality!](https://github.com/liquidev/spamality) | Lua | [Open Jam 2018](https://itch.io/jam/open-jam-2018) – an arcade shooter where you spam to win |
 
 ### Programming languages
 
