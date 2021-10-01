@@ -8,7 +8,7 @@
 
 ## Portfolio
 
-Projects here vary in levels of completeness. Maybe someday i'll mark the completed ones somehow.
+Projects here vary in levels of completeness. Maybe someday I'll mark the completed ones somehow.
 
 Ordered by relative recency.
 
