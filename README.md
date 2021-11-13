@@ -43,6 +43,7 @@ Ordered by relative recency.
 | name | lang | brief |
 | :-: | :-: | --- |
 | [nysa](https://github.com/liquidev/nysa) | Rust | shared bus for inter-thread communication |
+| [paws](https://github.com/liquidev/paws) | Rust | immediate mode GUI layouting |
 | [retrove](https://github.com/liquidev/retrove) | Lua | KISS low-res canvas scaling library for LÖVE |
 | [datarray](https://github.com/liquidev/datarray) | Nim | struct of arrays that can be accessed and modified like an array of structs |
 | [aglet](https://github.com/liquidev/aglet) | Nim | high-level OpenGL wrapper focused on safety, sensible defaults, and ease of use |
