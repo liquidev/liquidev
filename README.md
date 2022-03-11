@@ -46,6 +46,7 @@ Ordered by relative recency.
 
 | name | lang | brief |
 | :-: | :-: | --- |
+| [Mica](https://github.com/liquidev/mica) | Rust | dynamically typed, embeddable scripting language similar to Ruby and Lua |
 | [tsuki](https://github.com/liquidev/tsuki) | Rust | programmer-oriented programming language |
 | [cflang](https://github.com/liquidev/cflang) | Nim | minimal functional programming language, an experiment in implementing closures |
 | [powerbf](https://github.com/liquidev/powerbf) | C | an optimizing bytecode brainfuck interpreter |
