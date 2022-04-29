@@ -1,22 +1,8 @@
-# It's me
+## Stuff I made
 
-- Games, audio, programming languages, and graphics are my jam
-- I code in Rust, Lua, Nim, Zig, C, C++, and a few other languages
-- I'm a Linux enthusiast and [ricer](https://github.com/liquidev/rice-archive)
-- I speak English and Polish
-- I care for your RAM and CPU usage
+### Software
 
-## Portfolio
-
-Projects here vary in levels of completeness. Maybe someday I'll mark the completed ones somehow.
-
-Ordered by relative recency.
-
-### Apps, programs, games, plugins
-
-<sup><i>how would you call these collectively?</i></sup>
-
-| name | lang | brief |
+| Name | Lang. | Brief |
 | :-: | :-: | --- |
 | [NetCanv](https://github.com/liquidev/netcanv) | Rust | online collaborative paint canvas |
 | [vectorscope](https://github.com/liquidev/vectorscope) | Rust | a vectorscope for plotting Lissajous curves through JACK |
@@ -31,7 +17,7 @@ Ordered by relative recency.
 
 ### Programming languages
 
-| name | lang | brief |
+| Name | Lang. | Brief |
 | :-: | :-: | --- |
 | [Mica](https://github.com/liquidev/mica) | Rust | dynamically typed, embeddable scripting language similar to Ruby and Lua |
 | [tsuki](https://github.com/liquidev/tsuki) | Rust | programmer-oriented programming language |
@@ -41,7 +27,7 @@ Ordered by relative recency.
 
 ### Libraries
 
-| name | lang | brief |
+| Name | Lang. | Brief |
 | :-: | :-: | --- |
 | [nysa](https://github.com/liquidev/nysa) | Rust | shared bus for inter-thread communication |
 | [paws](https://github.com/liquidev/paws) | Rust | immediate mode GUI layouting |
@@ -52,19 +38,21 @@ Ordered by relative recency.
 | [euwren](https://github.com/liquidev/euwren) | Nim | high-level [Wren](https://wren.io) wrapper for Nim |
 | [rapid](https://github.com/liquidev/rapid) | Nim | my own game engine designed for myself |
 
-### The COMES Software Suite
+## Skills
 
-Bad file formats and their respective support libraries, written for funsies.
-
-| name | lang | brief |
-| :-: | :-: | --- |
-| [caf](https://github.com/liquidev/caf) | Zig | COMES Archive Format |
-| [cif](https://github.com/liquidev/cif) | Nim | COMES Image Format |
+- Programming languages: Rust, Lua, C++, C, Nim
+- Spoken languages: English and Polish
+- I'm not a framework specialist. I'm a problem solver.
 
 ## Other stuff
 
-- [itch.io](https://lqdev.itch.io/), where you can find my games
-- [soundcloud](https://soundcloud.com/daknus), where you can find bleep bloops i make from time to time
+- Timezone: UTC+1
+- Pronouns: he/him
+- Links:
+  - [Blog](https://liquidev.net), where I post longer-form thoughts, ideas, and tutorials from time to time
+  - [Twitter](https://twitter.com/liquidexw), where I mostly lurk but also post short insights or small project updates
+  - [itch.io](https://lqdev.itch.io/), where you can find my games
+  - [SoundCloud](https://soundcloud.com/daknus), where you can find bleep bloops I make from time to time
 
 <!-- oh hello there lurker! glad to see you.
      i didn't put any easter eggs here yet, check back later. -->
