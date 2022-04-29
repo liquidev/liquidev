@@ -2,47 +2,63 @@
 
 ### Software
 
-| Name | Lang. | Brief |
-| :-: | :-: | --- |
-| [NetCanv](https://github.com/liquidev/netcanv) | Rust | online collaborative paint canvas |
-| [vectorscope](https://github.com/liquidev/vectorscope) | Rust | a vectorscope for plotting Lissajous curves through JACK |
-| [lint+](https://github.com/liquidev/lintplus) | Lua | improved linting plugin for [lite](https://github.com/rxi/lite) |
-| [Lite XL](https://github.com/franko/lite-xl) | Lua | contributions: testing, quality assurance, plugins, bugfixing, and features |
-| [pan](https://github.com/liquidev/pan) | Nim/Lua | a tool for creating procedural motion graphics using Lua |
-| [pomod](https://github.com/liquidev/pomod) | Nim | pomodoro timer for polybar |
-| [\_MEM.RECALL();](https://github.com/liquidev/memrecall) | Nim | [Open Jam 2019](https://itch.io/jam/open-jam-2019) 2nd place – a platformer where you save the future (™) |
-| [pibench2](https://github.com/liquidev/pibench2) | Nim | multi-threaded performance benchmark that approximates π using the Leibnitz series |
-| [Planet Overgamma](https://github.com/liquidev/planet-overgamma) | Lua | a game about crashing on an unknown planet and using automation to survive and thrive |
-| [Spamality!](https://github.com/liquidev/spamality) | Lua | [Open Jam 2018](https://itch.io/jam/open-jam-2018) – an arcade shooter where you spam to win |
+| Name | Description | Tech |
+| :-: | --- | --- |
+| [NetCanv](https://github.com/liquidev/netcanv) | Online collaborative paint canvas | [Rust], OpenGL |
+| [vectorscope](https://github.com/liquidev/vectorscope) | A vectorscope for plotting Lissajous curves through JACK | [Rust], [pixels] |
+| [lint+](https://github.com/liquidev/lintplus) | Improved linting plugin for [Lite XL] | [Lua], [Lite XL] |
+| [Lite XL] | Contributions: testing, quality assurance, plugins, bug fixing, and features | [Lua] |
+| [pan](https://github.com/liquidev/pan) | A tool for creating procedural motion graphics using Lua | [Nim], [Lua], [cairo], [rapid] |
+| [pomod](https://github.com/liquidev/pomod) | Pomodoro timer for Polybar | [Nim] |
+| [\_MEM.RECALL();](https://github.com/liquidev/memrecall) | [Open Jam 2019](https://itch.io/jam/open-jam-2019) 2nd place – a platformer where you save the future (™) | [Nim], [rapid] |
+| [pibench2](https://github.com/liquidev/pibench2) | Multi-threaded performance benchmark that approximates π using the Leibnitz series | [Nim] |
+| [Planet Overgamma](https://github.com/liquidev/planet-overgamma) | A game about crashing on an unknown planet and using automation to survive and thrive | [Lua], [LÖVE] |
+| [Spamality!](https://github.com/liquidev/spamality) | [Open Jam 2018](https://itch.io/jam/open-jam-2018) – an arcade shooter where you spam to win | [Lua], [LÖVE] |
 
 ### Programming languages
 
-| Name | Lang. | Brief |
-| :-: | :-: | --- |
-| [Mica](https://github.com/liquidev/mica) | Rust | dynamically typed, embeddable scripting language similar to Ruby and Lua |
-| [tsuki](https://github.com/liquidev/tsuki) | Rust | programmer-oriented programming language |
-| [cflang](https://github.com/liquidev/cflang) | Nim | minimal functional programming language, an experiment in implementing closures |
-| [powerbf](https://github.com/liquidev/powerbf) | C | an optimizing bytecode brainfuck interpreter |
-| [hayago](https://github.com/liquidev/hayago) | Nim | statically-typed scripting language. “like Nim, but with braces!”™ |
+| Name | Description | Tech |
+| :-: | --- | --- |
+| [Mica](https://github.com/liquidev/mica) | Dynamically typed, embeddable scripting language similar to Ruby and Lua | [Rust] |
+| [tsuki](https://github.com/liquidev/tsuki) | Programmer-oriented programming language | [Rust], [LLVM] |
+| [cflang](https://github.com/liquidev/cflang) | Minimal functional programming language, an experiment in implementing closures | [Nim] |
+| [powerbf](https://github.com/liquidev/powerbf) | An optimizing bytecode brainfuck interpreter | C |
+| [hayago](https://github.com/liquidev/hayago) | Statically-typed scripting language. “Like Nim, but with braces!”™ | [Nim] |
 
 ### Libraries
 
-| Name | Lang. | Brief |
-| :-: | :-: | --- |
-| [nysa](https://github.com/liquidev/nysa) | Rust | shared bus for inter-thread communication |
-| [paws](https://github.com/liquidev/paws) | Rust | immediate mode GUI layouting |
-| [retrove](https://github.com/liquidev/retrove) | Lua | KISS low-res canvas scaling library for LÖVE |
-| [datarray](https://github.com/liquidev/datarray) | Nim | struct of arrays that can be accessed and modified like an array of structs |
-| [aglet](https://github.com/liquidev/aglet) | Nim | high-level OpenGL wrapper focused on safety, sensible defaults, and ease of use |
-| [delight](https://github.com/liquidev/delight) | Nim | engine-agnostic library for 2D raycasting and lights |
-| [euwren](https://github.com/liquidev/euwren) | Nim | high-level [Wren](https://wren.io) wrapper for Nim |
-| [rapid](https://github.com/liquidev/rapid) | Nim | my own game engine designed for myself |
+| Name | Description | Tech |
+| :-: | --- | --- |
+| [nysa](https://github.com/liquidev/nysa) | Shared bus for inter-thread communication | [Rust] |
+| [paws](https://github.com/liquidev/paws) | Immediate mode GUI layouting | [Rust] |
+| [retrove](https://github.com/liquidev/retrove) | KISS low-res canvas scaling library for LÖVE | [Lua], [LÖVE] |
+| [datarray](https://github.com/liquidev/datarray) | Struct of arrays that can be accessed and modified like an array of structs | [Nim] |
+| [aglet] | High-level OpenGL wrapper focused on safety, sensible defaults, and ease of use | [Nim], OpenGL, [GLFW] |
+| [delight](https://github.com/liquidev/delight) | Engine-agnostic library for 2D raycasting and lights | [Nim] |
+| [euwren](https://github.com/liquidev/euwren) | High-level [Wren] wrapper for Nim | [Nim], [Wren] |
+| [rapid] | My own game engine designed for myself | [Nim], [aglet] |
+
+  [pixels]: https://github.com/parasyte/pixels
+  [Lite XL]: https://lite-xl.com/
+  [cairo]: https://www.cairographics.org/
+  [rapid]: https://github.com/liquidev/rapid
+  [LÖVE]: https://love2d.org
+  [GLFW]: https://glfw.org
+  [Wren]: https://wren.io
+  [aglet]: https://github.com/liquidev/aglet
+  [LLVM]: https://llvm.org
+  
 
 ## Skills
 
-- Programming languages: Rust, Lua, C++, C, Nim
+- Programming languages: [Rust], [Lua], C++, C, [Nim]
+- Technologies: OpenGL, [Lua]'s C API, [LLVM], [LÖVE]
 - Spoken languages: English and Polish
 - I'm not a framework specialist. I'm a problem solver.
+
+  [Nim]: https://nim-lang.org
+  [Rust]: https://rust-lang.org
+  [Lua]: https://lua.org
 
 ## Other stuff
 
