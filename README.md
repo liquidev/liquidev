@@ -1,23 +1,10 @@
 # It's me
 
 - Games, audio, programming languages, and graphics are my jam
-- I code in Rust, Lua, Nim, Zig, C, and a few other languages
+- I code in Rust, Lua, Nim, Zig, C, C++, and a few other languages
 - I'm a Linux enthusiast and [ricer](https://github.com/liquidev/rice-archive)
 - I speak English and Polish
 - I care for your RAM and CPU usage
-
-## Philosophy
-
-Here's a rough set of views I have on programming.
-
-- You're manipulating data, so focus on data.
-- Avoid boilerplate, keep it simple, stupid.
-- Take YAGNI to the extreme. Don't need that getter right now? Don't create it.
-- Efficiency is key. Users don't like load times, and neither do I like my 1 Mbps internet.
-- The Web is inefficient. Stand out from that crowd.
-- UX above all else. Aesthetics and usability have equal priority.
-- Don't make the user plow through pages of settings, provide sensible defaults.
-- **Have fun in an otherwise overly serious world.**
 
 ## Portfolio
 
