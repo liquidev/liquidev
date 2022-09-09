@@ -5,6 +5,7 @@
 | Name | Description | Tech |
 | :-: | --- | --- |
 | [NetCanv](https://github.com/liquidev/netcanv) | Online collaborative paint canvas | [Rust], OpenGL |
+| [Smug Dance as a Service](https://github.com/liquidev/smugdancer) | [website](https://liquidev.net/smugdancer) · Make Hat Kid dance to any song | [Rust], [Tokio] |
 | [vectorscope](https://github.com/liquidev/vectorscope) | A vectorscope for plotting Lissajous curves through JACK | [Rust], [pixels] |
 | [lint+](https://github.com/liquidev/lintplus) | Improved linting plugin for [Lite XL] | [Lua], [Lite XL] |
 | [Lite XL] | Contributions: testing, quality assurance, plugins, bug fixing, and features | [Lua] |
@@ -47,6 +48,7 @@
   [Wren]: https://wren.io
   [aglet]: https://github.com/liquidev/aglet
   [LLVM]: https://llvm.org
+  [Tokio]: https://github.com/tokio-rs/tokio
   
 
 ## Skills
