@@ -64,7 +64,6 @@
 
 ## Other stuff
 
-- Timezone: UTC+1
 - Pronouns: he/him
 - Links:
   - [Blog](https://liquidev.net), where I post longer-form thoughts, ideas, and tutorials from time to time
