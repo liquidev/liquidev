@@ -4,6 +4,7 @@
 
 | Name | Description | Tech |
 | :-: | --- | --- |
+| [Fizzerb](https://github.com/liquidev/fizzerb) | Physically-based path traced reverb | [Rust], [Druid] |
 | [NetCanv](https://github.com/liquidev/netcanv) | Online collaborative paint canvas | [Rust], OpenGL |
 | [smugdancer](https://github.com/liquidev/smugdancer) | [Smug Dance as a Service](https://liquidev.net/smugdancer) - make [Hat Kid](https://hatintime.com) [dance](https://www.youtube.com/watch?v=SHvhps47Lmc) to any song | [Rust], [Tokio] |
 | [vectorscope](https://github.com/liquidev/vectorscope) | A vectorscope for plotting Lissajous curves through JACK | [Rust], [pixels] |
@@ -49,6 +50,7 @@
   [aglet]: https://github.com/liquidev/aglet
   [LLVM]: https://llvm.org
   [Tokio]: https://github.com/tokio-rs/tokio
+  [Druid]: https://github.com/linebender/druid/
   
 
 ## Skills
