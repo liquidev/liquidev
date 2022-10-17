@@ -51,18 +51,18 @@
   [LLVM]: https://llvm.org
   [Tokio]: https://github.com/tokio-rs/tokio
   [Druid]: https://github.com/linebender/druid/
-  
 
 ## Skills
 
 - Programming languages: [Rust], [Lua], C++, C, [Nim]
-- Technologies: OpenGL, [Lua]'s C API, [LLVM], [LÖVE]
+- Technologies: OpenGL, [Lua]'s C API, [LLVM], [LÖVE], [Unreal Engine 5]
 - Spoken languages: English and Polish
 - I'm not a framework specialist. I'm a problem solver.
 
   [Nim]: https://nim-lang.org
   [Rust]: https://rust-lang.org
   [Lua]: https://lua.org
+  [Unreal Engine 5]: https://www.unrealengine.com/
 
 ## Other stuff
 
@@ -74,4 +74,5 @@
   - [SoundCloud](https://soundcloud.com/daknus), where you can find bleep bloops I make from time to time
 
 <!-- oh hello there lurker! glad to see you.
-     i didn't put any easter eggs here yet, check back later. -->
+     <del>i didn't put any easter eggs here yet, check back later.</del>
+     in case you're reading this, stay tuned for Polaris. ❤️ love from Poland -->
