@@ -56,6 +56,7 @@
 
 - Programming languages: [Rust], [Lua], C++, C, [Nim]
 - Technologies: OpenGL, [Lua]'s C API, [LLVM], [LÖVE], [Unreal Engine 5]
+- Reverse engineering, somewhat. Reading code, much more so.
 - Spoken languages: English and Polish
 - I'm not a framework specialist. I'm a problem solver.
 
