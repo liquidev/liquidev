@@ -30,7 +30,7 @@ Cool, but not _as_ cool.
 | :-: | --- | --- |
 | [[untitled]](https://github.com/liquidev/nerdsniped-by-spotify-wrapped) | Nerdsniped by Spotify Wrapped | [Rust] |
 | [reindent](https://github.com/liquidev/reindent) | Reindent lines in a set of files, quickly and easily | [Rust] |
-| [vectorscope](https://github.com/liquidev/vectorscope) | A vectorscope for plotting Lissajous curves through JACK | [Rust], [pixels] |
+| [vectorscope](https://github.com/liquidev/vectorscope) | A vectorscope for plotting Lissajous curves through JACK | [Rust] |
 | [softgl](https://github.com/liquidev/softgl) | Experiments with software rendered 3D graphics | [Rust] |
 | [Szmelc Player](https://github.com/liquidev/szmelc-player) | Generator of executables that play videos in your terminal | [Rust] | 
 | [nysa](https://github.com/liquidev/nysa) | Shared bus for inter-thread communication | [Rust] |
@@ -38,7 +38,7 @@ Cool, but not _as_ cool.
 | [retrove](https://github.com/liquidev/retrove) | KISS low-res canvas scaling library for LÖVE | [Lua], [LÖVE] |
 | [cflang](https://github.com/liquidev/cflang) | Minimal functional programming language, an experiment in implementing closures | [Nim] |
 | [datarray](https://github.com/liquidev/datarray) | Struct of arrays that can be accessed and modified like an array of structs | [Nim] |
-| [aglet] | High-level OpenGL wrapper focused on safety, sensible defaults, and ease of use | [Nim], OpenGL, [GLFW] |
+| [aglet] | High-level OpenGL wrapper focused on safety, sensible defaults, and ease of use | [Nim], OpenGL |
 | [powerbf](https://github.com/liquidev/powerbf) | An optimizing bytecode brainfuck interpreter | C |
 | [pomod](https://github.com/liquidev/pomod) | Pomodoro timer for Polybar | [Nim] |
 | [delight](https://github.com/liquidev/delight) | Engine-agnostic library for 2D raycasting and lights | [Nim] |
@@ -54,7 +54,7 @@ Unusable, in a before-MVP stage, or totally abandoned.
 | Name | Description | Tech |
 | :-: | --- | --- |
 | [dawd³](https://github.com/liquidev/dawd3) | Minecraft modular audio experiments | [Kotlin], [Fabric] |
-| [Fizzerb](https://github.com/liquidev/fizzerb) | Physically-based path traced reverb experiment | [Rust], [Druid] |
+| [Fizzerb](https://github.com/liquidev/fizzerb) | Physically-based path traced reverb experiment | [Rust] |
 | [pod:renn](https://github.com/liquidev/podrenn) | _Now this is podracing._ This was going to be a podracing game. | [Godot], C# |
 | [VVVVVV](https://github.com/liquidev/VVVVVV) | Porting VVVVVV to the PlayStation Portable | C++ |
 | [tsuki](https://github.com/liquidev/tsuki) | Programmer-oriented programming language | [Rust], [LLVM] |
