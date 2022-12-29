@@ -90,7 +90,7 @@ Unusable, in a before-MVP stage, or totally abandoned.
 - Technologies: [Unreal Engine] 5 (and a bit of 3), [LÖVE], OpenGL, [LLVM]
 - Reverse engineering, [somewhat](https://github.com/liquidev/abit).
 - Spoken languages: English and Polish
-- I love learning and don't confine myself to a specific set of tools. Treat this list as an inspiration, and nothing absolute.
+- I love learning and don't confine myself to a specific set of tools. Treat this list as an inspiration, not something absolute.
 
   [Nim]: https://nim-lang.org
   [Rust]: https://rust-lang.org
