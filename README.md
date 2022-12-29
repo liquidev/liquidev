@@ -71,7 +71,7 @@
 - Links:
   - [Blog](https://liquidev.net), where I post longer-form thoughts, ideas, and tutorials from time to time
   - [cohost](https://cohost.org/liquidev), which is where I post more random and less well thought out stuff
-  - [itch.io](https://lqdev.itch.io/), where you can find my games
+  - [itch.io](https://liquidev.itch.io/), where you can find my games
   - [SoundCloud](https://soundcloud.com/daknus), where you can find bleep bloops I make from time to time
 
 <!-- oh hello there lurker! glad to see you.
