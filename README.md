@@ -70,8 +70,7 @@
 - Pronouns: he/him
 - Links:
   - [Blog](https://liquidev.net), where I post longer-form thoughts, ideas, and tutorials from time to time
-  - [cohost](https://cohost.org/liquidev), which is where I post less well thought out stuff
-  - [Twitter](https://twitter.com/liquidexw), where I mostly lurk (see cohost.)
+  - [cohost](https://cohost.org/liquidev), which is where I post more random and less well thought out stuff
   - [itch.io](https://lqdev.itch.io/), where you can find my games
   - [SoundCloud](https://soundcloud.com/daknus), where you can find bleep bloops I make from time to time
 
