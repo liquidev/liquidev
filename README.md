@@ -7,8 +7,7 @@
   You should learn to recognize the forbidden link on first sight.
 -->
 
-## My Sound
-<!-- https://www.youtube.com/watch?v=OzoFHatryJQ -->
+## My Sound [🎵](https://www.youtube.com/watch?v=OzoFHatryJQ)
 
 ### Major
 
@@ -19,7 +18,7 @@ The real deal.
 | [smugdancer](https://github.com/liquidev/smugdancer) | [Smug Dance as a Service](https://liquidev.net/smugdancer) - make [Hat Kid](https://hatintime.com) [dance](https://www.youtube.com/watch?v=SHvhps47Lmc) to any song | [Rust], [Tokio] |
 | [Mica](https://github.com/liquidev/mica) | Dynamically typed, embeddable scripting language similar to Ruby and Lua | [Rust] |
 | [NetCanv](https://github.com/liquidev/netcanv) | Online collaborative paint canvas | [Rust], OpenGL |
-| [lint+](https://github.com/liquidev/lintplus) | Advanced <!-- https://www.youtube.com/watch?v=S-3wEC6Fj_8 --> linting plugin for [Lite XL] | [Lua], [Lite XL] |
+| [lint+](https://github.com/liquidev/lintplus) | Advanced[™](https://www.youtube.com/watch?v=S-3wEC6Fj_8) linting plugin for [Lite XL] | [Lua], [Lite XL] |
 | [pan](https://github.com/liquidev/pan) | A tool for creating procedural motion graphics using Lua | [Nim], [Lua], [cairo], [rapid] |
 | [\_MEM.RECALL();](https://github.com/liquidev/memrecall) | [Open Jam 2019](https://itch.io/jam/open-jam-2019) – a platformer where you save the future (™) | [Nim], [rapid] |
 
@@ -91,7 +90,7 @@ Unusable, in a before-MVP stage, or totally abandoned.
 - Technologies: [Unreal Engine] 5 (and a bit of 3), [LÖVE], OpenGL, [LLVM]
 - Reverse engineering, [somewhat](https://github.com/liquidev/abit).
 - Spoken languages: English and Polish
-- I love learning and don't confine myself to a specific set of tools. Treat this list as an inspiration, not an absolute.
+- I love learning and don't confine myself to a specific set of tools. Treat this list as an inspiration, and nothing absolute.
 
   [Nim]: https://nim-lang.org
   [Rust]: https://rust-lang.org
