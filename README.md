@@ -107,7 +107,7 @@ Unusable, in a before-MVP stage, or totally abandoned.
   - [itch.io](https://liquidev.itch.io/), where you can find my games, though my profile do be kind of dead
   - [SoundCloud](https://soundcloud.com/daknus), where you can find bleep bloops I make from time to time
 - Interests:
-  - [Music](https://open.spotify.com/playlist/6p7oUlrfwlKEZCYwJP4Wb5). Electronic, jazz, and maybe alternative from time to time.
+  - [Music](https://listenbrainz.org/user/liquidev). Electronic, jazz, and maybe alternative from time to time.
   - Video editing. I have a bunch of YouTube channels.
     - [liquidex](https://www.youtube.com/@liquidexw) - programming, in Polish
     - [liquidex - Wywóz Śmieci](https://www.youtube.com/@liquidexspzoo) - gaming and random trash, <!-- the channel name is literally "garbage disposal" --> also in Polish
