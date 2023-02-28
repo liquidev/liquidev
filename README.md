@@ -67,6 +67,7 @@ Just so you don't think I'm some indestructible gigachad. The following projects
 - ⏹ **[tsuki](https://github.com/liquidev/tsuki)** - Programmer-oriented compiled programming language. Gave up on it because Rust already exists and suits my needs perfectly well. Compiler emits machine code but doesn't do anything interesting.
 - ⏹ **[hayago](https://github.com/liquidev/hayago)** - Statically-typed scripting language. “Like Nim, but with braces!”™ This one has a long history and I eventually just got bored (both of this project and Nim.)
 - ⏹ **[Planet Overgamma](https://github.com/liquidev/planet-overgamma)** - A game about crashing on an unknown planet and using automation to survive and thrive. This one had so many rewrites it would make your head spin. I got bored of it.
+- ...as well as tens of others I started and got bored of after ten minutes.
 
 Legend:
 - 🤚 **On hold**
