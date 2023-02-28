@@ -48,24 +48,6 @@ Cool, but not _as_ cool.
 | [pibench2](https://github.com/liquidev/pibench2) | Multi-threaded performance benchmark that approximates π using the Leibnitz series | [Nim] |
 | [Spamality!](https://github.com/liquidev/spamality) | [Open Jam 2018](https://itch.io/jam/open-jam-2018) – an arcade shooter where you spam to win | [Lua], [LÖVE] |
 
-### Incomplete
-
-Just so you don't think I'm some indestructible gigachad. The following projects are unusable, in a before-MVP stage, or totally abandoned; all for various reasons too long to outline in this compact table.
-
-| Name | Description | Tech | State
-| :-: | --- | --- | --- |
-| [dawd³](https://github.com/liquidev/dawd3) | Minecraft modular audio experiments | [Kotlin], [Fabric] | 🤚 Makes sound |
-| [Fizzerb](https://github.com/liquidev/fizzerb) | Physically-based path traced reverb experiment | [Rust] | 🤚 Barebones but works |
-| [pod:renn](https://github.com/liquidev/podrenn) | _Now this is podracing._ This was going to be a podracing game. | [Godot], C# | 🕗 Game design is hard |
-| [VVVVVV](https://github.com/liquidev/VVVVVV) | Porting VVVVVV to the PlayStation Portable | C++ | 🕗 Low FPS |
-| [tsuki](https://github.com/liquidev/tsuki) | Programmer-oriented programming language | [Rust], [LLVM] | ⏹ Barely does anything |
-| [hayago](https://github.com/liquidev/hayago) | Statically-typed scripting language. “Like Nim, but with braces!”™ | [Nim] | ⏹ Kinda works I guess |
-| [Planet Overgamma](https://github.com/liquidev/planet-overgamma) | A game about crashing on an unknown planet and using automation to survive and thrive | [Lua], [LÖVE] | ⏹ Yeah, no. |
-
-Legend:
-- 🤚 **On hold**
-- 🕗 **Maybe someday**
-- ⏹ **Abandoned**
 
 ### Contributions
 
@@ -73,6 +55,23 @@ Legend:
 | :-: | --- | :-:
 | [Lite XL] | Testing & QA, plugins, bug fixing, and features | 2021 |
 | [Processing] | Minor code contributions and community help | 2017 |
+
+### Incomplete
+
+Just so you don't think I'm some indestructible gigachad. The following projects are unusable, in a before-MVP stage, or totally abandoned.
+
+- 🤚 **[dawd³](https://github.com/liquidev/dawd3)** - Minecraft modular audio experiments. Makes sound but not music.
+- 🤚 **[Fizzerb](https://github.com/liquidev/fizzerb)** - Physically-based path traced reverb experiment. Barebones but works.
+- 🕗 **[pod:renn](https://github.com/liquidev/podrenn)** - _Now this is podracing._ This was going to be a podracing game, but game design is hard.
+- 🕗 **[VVVVVV](https://github.com/liquidev/VVVVVV)** - Port of VVVVVV to the PlayStation Portable. Barely playable, software rendered so suffers from low FPS. PSP SDK docs really didn't make this easy.
+- ⏹ **[tsuki](https://github.com/liquidev/tsuki)** - Programmer-oriented compiled programming language. Gave up on it because Rust already exists and suits my needs perfectly well. Compiler emits machine code but doesn't do anything interesting.
+- ⏹ **[hayago](https://github.com/liquidev/hayago)** - Statically-typed scripting language. “Like Nim, but with braces!”™ This one has a long history and I eventually just got bored (both of this project and Nim.)
+- ⏹ **[Planet Overgamma](https://github.com/liquidev/planet-overgamma)** - A game about crashing on an unknown planet and using automation to survive and thrive. This one had so many rewrites it would make your head spin. I got bored of it.
+
+Legend:
+- 🤚 **On hold**
+- 🕗 **Maybe someday**
+- ⏹ **Abandoned**
 
   [Godot]: https://godotengine.org/
   [Fabric]: https://fabricmc.net/
@@ -94,7 +93,7 @@ Legend:
 
 - Programming languages: [Rust], C and C++, [Lua]
 - Technologies: [Unreal Engine] 5 (and a bit of 3), [LÖVE], OpenGL, [LLVM]
-- Reverse engineering, [somewhat](https://github.com/liquidev/abit).
+- Reverse engineering, [some](https://github.com/abyteintime/abit)[what](https://github.com/abyteintime/stitchkit).
 - Spoken languages: English and Polish
 - I love learning and don't confine myself to a specific set of tools. Treat this list as an inspiration, not something absolute.
 
