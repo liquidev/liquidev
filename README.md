@@ -50,17 +50,17 @@ Cool, but not _as_ cool.
 
 ### Incomplete
 
-Unusable, in a before-MVP stage, or totally abandoned.
+Just so you don't think I'm some indestructible gigachad. The following projects are unusable, in a before-MVP stage, or totally abandoned; all for various reasons too long to outline in this compact table.
 
 | Name | Description | Tech | State
-| :-: | --- | --- | :-: |
-| [dawd³](https://github.com/liquidev/dawd3) | Minecraft modular audio experiments | [Kotlin], [Fabric] | 🤚 |
-| [Fizzerb](https://github.com/liquidev/fizzerb) | Physically-based path traced reverb experiment | [Rust] | 🤚 |
-| [pod:renn](https://github.com/liquidev/podrenn) | _Now this is podracing._ This was going to be a podracing game. | [Godot], C# | 🕗 |
-| [VVVVVV](https://github.com/liquidev/VVVVVV) | Porting VVVVVV to the PlayStation Portable | C++ | 🕗 |
-| [tsuki](https://github.com/liquidev/tsuki) | Programmer-oriented programming language | [Rust], [LLVM] | ⏹ |
-| [hayago](https://github.com/liquidev/hayago) | Statically-typed scripting language. “Like Nim, but with braces!”™ | [Nim] | ⏹ |
-| [Planet Overgamma](https://github.com/liquidev/planet-overgamma) | A game about crashing on an unknown planet and using automation to survive and thrive | [Lua], [LÖVE] | ⏹ |
+| :-: | --- | --- | --- |
+| [dawd³](https://github.com/liquidev/dawd3) | Minecraft modular audio experiments | [Kotlin], [Fabric] | 🤚 Makes sound |
+| [Fizzerb](https://github.com/liquidev/fizzerb) | Physically-based path traced reverb experiment | [Rust] | 🤚 Barebones but works |
+| [pod:renn](https://github.com/liquidev/podrenn) | _Now this is podracing._ This was going to be a podracing game. | [Godot], C# | 🕗 Game design is hard |
+| [VVVVVV](https://github.com/liquidev/VVVVVV) | Porting VVVVVV to the PlayStation Portable | C++ | 🕗 Low FPS |
+| [tsuki](https://github.com/liquidev/tsuki) | Programmer-oriented programming language | [Rust], [LLVM] | ⏹ Barely does anything |
+| [hayago](https://github.com/liquidev/hayago) | Statically-typed scripting language. “Like Nim, but with braces!”™ | [Nim] | ⏹ Kinda works I guess |
+| [Planet Overgamma](https://github.com/liquidev/planet-overgamma) | A game about crashing on an unknown planet and using automation to survive and thrive | [Lua], [LÖVE] | ⏹ Yeah, no. |
 
 Legend:
 - 🤚 **On hold**
