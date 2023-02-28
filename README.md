@@ -15,7 +15,7 @@ The real deal.
 
 | Name | Description | Tech |
 | :-: | --- | --- |
-| [A Byte in Time](https://github.com/liquidev/abit) | [A Hat in Time](https://hatintime.com) tweaking toolkit | C++, [Unreal Engine] 3 |
+| [Stitchkit](https://github.com/abyteintime/stitchkit) | Alternate set of tools for stitching [A Hat in Time](https://hatintime.com) mods | Rust |
 | [smugdancer](https://github.com/liquidev/smugdancer) | [Smug Dance as a Service](https://liquidev.net/smugdancer) - make [Hat Kid](https://hatintime.com) [dance](https://www.youtube.com/watch?v=SHvhps47Lmc) to any song | [Rust], [Tokio] |
 | [Mica](https://github.com/liquidev/mica) | Dynamically typed, embeddable scripting language similar to Ruby and Lua | [Rust] |
 | [NetCanv](https://github.com/liquidev/netcanv) | Online collaborative paint canvas | [Rust], OpenGL |
