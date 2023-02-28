@@ -52,15 +52,20 @@ Cool, but not _as_ cool.
 
 Unusable, in a before-MVP stage, or totally abandoned.
 
-| Name | Description | Tech |
-| :-: | --- | --- |
-| [dawd³](https://github.com/liquidev/dawd3) | Minecraft modular audio experiments | [Kotlin], [Fabric] |
-| [Fizzerb](https://github.com/liquidev/fizzerb) | Physically-based path traced reverb experiment | [Rust] |
-| [pod:renn](https://github.com/liquidev/podrenn) | _Now this is podracing._ This was going to be a podracing game. | [Godot], C# |
-| [VVVVVV](https://github.com/liquidev/VVVVVV) | Porting VVVVVV to the PlayStation Portable | C++ |
-| [tsuki](https://github.com/liquidev/tsuki) | Programmer-oriented programming language | [Rust], [LLVM] |
-| [hayago](https://github.com/liquidev/hayago) | Statically-typed scripting language. “Like Nim, but with braces!”™ | [Nim] |
-| [Planet Overgamma](https://github.com/liquidev/planet-overgamma) | A game about crashing on an unknown planet and using automation to survive and thrive | [Lua], [LÖVE] |
+| Name | Description | Tech | State
+| :-: | --- | --- | --- |
+| [dawd³](https://github.com/liquidev/dawd3) | Minecraft modular audio experiments | [Kotlin], [Fabric] | ⏸ |
+| [Fizzerb](https://github.com/liquidev/fizzerb) | Physically-based path traced reverb experiment | [Rust] | ⏸ |
+| [pod:renn](https://github.com/liquidev/podrenn) | _Now this is podracing._ This was going to be a podracing game. | [Godot], C# | ⏹ |
+| [VVVVVV](https://github.com/liquidev/VVVVVV) | Porting VVVVVV to the PlayStation Portable | C++ | ❓ |
+| [tsuki](https://github.com/liquidev/tsuki) | Programmer-oriented programming language | [Rust], [LLVM] | ⏹ |
+| [hayago](https://github.com/liquidev/hayago) | Statically-typed scripting language. “Like Nim, but with braces!”™ | [Nim] | ⏹ |
+| [Planet Overgamma](https://github.com/liquidev/planet-overgamma) | A game about crashing on an unknown planet and using automation to survive and thrive | [Lua], [LÖVE] | ⏹ |
+
+Legend:
+- ⏸ **On hold**
+- ❓ **Maybe someday**
+- ⏹ **Abandoned**
 
 ### Contributions
 
