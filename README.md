@@ -53,7 +53,7 @@ Cool, but not _as_ cool.
 Unusable, in a before-MVP stage, or totally abandoned.
 
 | Name | Description | Tech | State
-| :-: | --- | --- | --- |
+| :-: | --- | --- | :-: |
 | [dawd³](https://github.com/liquidev/dawd3) | Minecraft modular audio experiments | [Kotlin], [Fabric] | 🤚 |
 | [Fizzerb](https://github.com/liquidev/fizzerb) | Physically-based path traced reverb experiment | [Rust] | 🤚 |
 | [pod:renn](https://github.com/liquidev/podrenn) | _Now this is podracing._ This was going to be a podracing game. | [Godot], C# | 🕗 |
