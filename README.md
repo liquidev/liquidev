@@ -117,7 +117,7 @@ Legend:
     - [liquidex](https://www.youtube.com/@liquidexw) - programming, in Polish
     - [liquidex - Wywóz Śmieci](https://www.youtube.com/@liquidexspzoo) - gaming and random trash, <!-- the channel name is literally "garbage disposal" --> also in Polish
     - [liquidev](https://www.youtube.com/@liquidev) - I guess you could call it the official channel for this GitHub profile but it kinda sucks in terms of the amount of content it has.
-  - Video games. [This one](https://hatintime.com)'s my favorite.
+  - Video games. [These](https://hatintime.com) [ones](https://deltarune.com/) are my favorites.
     - Speedrunning's also cool.
 
 <!-- hello there lurker! glad to see you.
