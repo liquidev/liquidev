@@ -60,7 +60,6 @@ Cool, but not _as_ cool.
 
 Just so you don't think I'm some indestructible gigachad. The following projects are unusable, in a before-MVP stage, or totally abandoned.
 
-- 🤚 **[dawd³](https://github.com/liquidev/dawd3)** - Minecraft modular audio experiments. Makes sound but not music.
 - 🤚 **[Fizzerb](https://github.com/liquidev/fizzerb)** - Physically-based path traced reverb experiment. Barebones but works.
 - 🕗 **[pod:renn](https://github.com/liquidev/podrenn)** - _Now this is podracing._ This was going to be a podracing game, but game design is hard.
 - 🕗 **[VVVVVV](https://github.com/liquidev/VVVVVV)** - Port of VVVVVV to the PlayStation Portable. Barely playable, software rendered so suffers from low FPS. PSP SDK docs really didn't make this easy.
