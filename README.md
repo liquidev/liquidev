@@ -15,7 +15,7 @@ The real deal.
 
 | Name | Description | Tech |
 | :-: | --- | --- |
-| [dawd³](https://github.com/liquidev/dawd3) | Modular synthesizer for Minecraft | [Kotlin], [Fabric] |
+| [dawd³](https://github.com/liquidev/dawd3) | Modular synthesis mod for Minecraft | [Kotlin], [Fabric] |
 | [Stitchkit](https://github.com/abyteintime/stitchkit) | Engine-independent set of tools for stitching [A Hat in Time](https://hatintime.com) mods | [Rust] |
 | [smugdancer](https://github.com/liquidev/smugdancer) | [Smug Dance as a Service](https://liquidev.net/smugdancer) - make [Hat Kid](https://hatintime.com) [dance](https://www.youtube.com/watch?v=SHvhps47Lmc) to any song | [Rust], [Tokio] |
 | [Mica](https://github.com/liquidev/mica) | Dynamically typed, embeddable scripting language similar to Ruby and Lua | [Rust] |
