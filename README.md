@@ -48,7 +48,7 @@ Cool, but not _as_ cool.
 
 ### Contributions
 
-I tried to make a music joke with these headings but my theory is a little out of tune.
+I tried to make a music joke with these headings but my music dictionary is a little out of tune.
 
 | Name | Description | When |
 | :-: | --- | :-:
