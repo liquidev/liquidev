@@ -118,7 +118,7 @@ Legend:
     - [liquidev](https://www.youtube.com/@liquidev) - I guess you could call it the official channel for this GitHub profile but it kinda sucks in terms of the amount of content it has.
   - Video games. [These](https://hatintime.com) [ones](https://deltarune.com/) are my favorites. You might even say I've developed an obsession over them.
 - This portfolio mostly includes my own stuff and open source contributions. You may find I have contributed to other things, too. *\*disappears without elaborating\**
-  - *\*...not really.\** You'll just have to scavenge a little to find out.
+  - ...not really. You'll just have to scavenger hunt a little to find out.
 - If you wanna chat, you can contact me on:
   - Discord. My username's the same as my GitHub display name. I'm around on various Rust and non-Rust related servers if you need to ping me. And do say hi after friending me, because bots are annoying.
   - Matrix. Homeserver is gacko.pl, my username is my GitHub username but abbreviated (lqdev.)
