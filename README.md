@@ -7,4 +7,4 @@ I'm liquidex, a friend living on the Internet. here's a little about me:
 
 Come join the fun at <https://liquidex.house>, where you can read more about me (among other things!)
 
-If you wanna chat, you can find my contact details [here](https://liquidex.house/#about:hello).
+If you wanna chat, you can find my contact details [here](https://liquidex.house/b?hello).
