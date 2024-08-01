@@ -8,3 +8,5 @@ I'm liquidex, a friend living on the Internet. here's a little about me:
 Come join the fun at <https://liquidex.house>, where you can read more about me (among other things!)
 
 If you wanna chat, you can find my contact details [here](https://liquidex.house/b?hello).
+
+<sub>NOTE: My commit email is, well, exactly that. Please do not use it to contact me, or your email will be ignored. Thank you!</sub>
