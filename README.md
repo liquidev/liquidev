@@ -1,6 +1,6 @@
 # hiii!!!
 
-my name is riki (or リキ萌え), and I'm a cute little ragdoll who likes coding. = –w– =
+my name is riki (or リキ萌), and I'm a cute little ragdoll who likes coding. = –w– =
 
 if you wanna chat, you can find my contact details [here](https://riki.house/b?hello).
 
